@@ -18,4 +18,4 @@ twitter_username: jekyllrb
 
 # Build settings
 markdown: kramdown
-theme: poole/hyde
+remote_theme: fongandrew/hydeout
