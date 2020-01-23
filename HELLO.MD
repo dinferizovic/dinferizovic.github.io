@@ -1,5 +1,5 @@
 ---
 layout: page
-title: "PAGE TITLE"
+title: "wh0t"
 permalink: /URL-PATH/
 ---
