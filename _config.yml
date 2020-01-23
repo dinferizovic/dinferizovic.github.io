@@ -19,4 +19,4 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: poole/hyde
+remote_theme: poole/hyde
