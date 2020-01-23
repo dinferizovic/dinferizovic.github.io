@@ -1,2 +1,0 @@
-# dinferizovic.github.io
-test
